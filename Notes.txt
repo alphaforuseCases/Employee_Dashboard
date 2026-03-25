@@ -1,0 +1,1 @@
+CMD run command - streamlit run dashboard.py
